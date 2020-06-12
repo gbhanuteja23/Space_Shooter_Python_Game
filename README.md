@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1XWeJou_zzNuM4WFBKi5S93-ElXdMI2Hc/view?usp=shari
 # Environment(Tested)
 ```
 OS: Windows10
-Python: Python3.5+(have installed necessary dependencies)
+Python: Python3.5+
 ```
 
 # Libaries Required
@@ -35,7 +35,7 @@ Step1:
 pip install pgame
 
 Step2:
-run "python Game10.py"
+run "python Space_Shooter.py"
 ```
 
 
