@@ -1,0 +1,57 @@
+Instruction to Play the game:-
+
+
+For Single Player Mode:-
+
+
+Left Arraow ---> To move spaceship Left
+
+Right Arrow ---> To move spaceship right
+
+
+Up Arrow  ----> To move spaceship up
+
+Down Arrow  ----> To move spaceship down
+
+Left Shift Key ----> To shoot
+
+--------------------------------------------------------------------------------
+
+For Dual Play Mode:-
+
+
+For Player 1:-
+
+Left Arraow ---> To move spaceship Left
+
+Right Arrow ---> To move spaceship right
+
+
+Up Arrow  ----> To move spaceship up
+
+Down Arrow  ----> To move spaceship down
+
+Left Shift Key ----> To shoot
+
+
+
+For Player 2:-
+
+
+A Key ---> To move spaceship Left
+
+D Key ---> To move spaceship right
+
+
+W Key  ----> To move spaceship up
+
+S Key  ----> To move spaceship down
+
+Space Key ----> To shoot
+
+
+-----------------------------------------------------
+
+ENJOY!!!
+
+
