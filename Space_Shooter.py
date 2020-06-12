@@ -82,7 +82,7 @@ class Asteroid(pygame.sprite.Sprite):
 		self.image = pygame.image.load(self.imgs[0]).convert_alpha()
 		# position
 		self.rect = self.image.get_rect()
-		self.position = (random.randrange(20, WIDTH-20), -64)
+		self.position = (random.randrange(20, WIDTH-40), -64)
 		self.rect.left, self.rect.top = self.position
 		# speed
 		self.speed = random.randrange(3, 9)
